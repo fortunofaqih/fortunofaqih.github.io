@@ -6,6 +6,15 @@
 	background-color: #1e7087;
 }
 
+.navbar-dark .navbar-nav .nav-link {
+  color: black;
+}
+
+.navbar-dark .navbar-brand {
+  color: black;
+}
+
+
 section{
 	padding-top: 5rem;
 }
